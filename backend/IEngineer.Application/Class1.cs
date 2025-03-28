@@ -1,4 +1,4 @@
-﻿namespace IEngineer.Data
+﻿namespace IEngineer.Application
 {
     public class Class1
     {
